@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1642230594 source:d:\kuliah\aka\tubes\radix\main.cpp
+	<iostream>
+	<list>
+	<cmath>
+
